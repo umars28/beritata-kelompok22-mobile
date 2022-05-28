@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">BERITATA</string>
+    <string name="navigation_drawer_open">Buka Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Navigasi</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigasi</string>
+    <string name="action_settings">Pengaturan</string>
+</resources>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/science"
+            android:title="Sains"
+            android:icon="@android:drawable/ic_menu_edit"/>
+        <item
+            android:id="@+id/sports"
+            android:title="Olahraga"
+            android:icon="@drawable/ic_sports"/>
+        <item
+            android:id="@+id/technology"
+            android:title="Teknologi"
+            android:icon="@android:drawable/ic_menu_gallery"/>
+    </group>
+
+    <item android:title="Keluar">
+        <menu>
+            <item
+                android:id="@+id/logout"
+                android:icon="@drawable/ic_logout"
+                android:title="Keluar" />
+        </menu>
+    </item>
+
+</menu>
